@@ -3,4 +3,4 @@ Just a small side project intended for me to practice developing systems in Unre
 
 Maybe I'll expand this out into a full parkour game?
 
-[https://www.youtube.com/watch?v=iNyLRhJRcp0](https://www.youtube.com/watch?v=iNyLRhJRcp0)
+[![VIDEO DEMO](https://img.youtube.com/vi/iNyLRhJRcp0/0.jpg)](https://www.youtube.com/watch?v=iNyLRhJRcp0)
